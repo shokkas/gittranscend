@@ -7,3 +7,5 @@ This file comes to list the Best Practices gittranscend is aiming to check and v
 3. Using annotataed tags.
 4. Commits are connected to tasks.
 5.
+
+6. using worktree?
